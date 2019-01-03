@@ -1,5 +1,1 @@
-# Start Page
-
-A diversion for a few free minutes
-
-![shot](shot.png)
+# 𝔱𝔬𝔪𝔞𝔲𝔱𝔶.𝔠𝔠
