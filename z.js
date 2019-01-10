@@ -8,7 +8,7 @@ const links = {
 		"this site": "https://tomauty.cc",
     },
     "work": {
-        "résúmé": "",
+        "resume": "",
 		"linked in": "https://www.linkedin.com/in/tom-auty-71648430/",
     },
     "writing": {
